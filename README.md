@@ -73,6 +73,7 @@
     <tr>
     <td>8.</td>
     <td>
+        
 ![image](https://github.com/yagyesh-bobde/DS-Lab/assets/90238742/77722dde-0b2d-43fe-b6ef-f50a757523c9)
     </td>
     <td>
