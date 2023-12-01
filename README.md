@@ -60,3 +60,11 @@
 [Visit Here](https://docs.google.com/document/d/1m8XlSbxRIk1dSlbnldQre6BrjmaTbVfJ7eeevP143HE/edit?usp=sharing)</td>
     </tr>
 </table>
+
+
+## How to create your own?
+1. Visit the doc template link
+2. Make a copy
+3. Make changes in the name and section
+4. Download
+5. Upload on classroom
