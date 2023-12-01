@@ -1,5 +1,5 @@
 # DS-Lab
-*PS: Practical 7,8 are to be updated soon...
+*PS: Practical 7,8 are to be updated soon...*
 ## All Practicals
 <table>
 <tr>
