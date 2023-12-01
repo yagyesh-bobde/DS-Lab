@@ -59,6 +59,26 @@
     
 [Visit Here](https://docs.google.com/document/d/1m8XlSbxRIk1dSlbnldQre6BrjmaTbVfJ7eeevP143HE/edit?usp=sharing)</td>
     </tr>
+    <tr>
+ <td>7.</td>
+ <td>
+     
+![image](https://github.com/yagyesh-bobde/DS-Lab/assets/90238742/412a004b-b60e-44ec-993b-79bfdb3770a3)
+ </td>
+ <td>
+     
+[Copy this](https://docs.google.com/document/d/1c5_AtdDEK34dACuvqdcQNNXbw-uI6XbORq5SuTfmHiQ/edit?usp=sharing)
+ </td>
+    </tr>
+    <tr>
+    <td>8.</td>
+    <td>
+![image](https://github.com/yagyesh-bobde/DS-Lab/assets/90238742/77722dde-0b2d-43fe-b6ef-f50a757523c9)
+    </td>
+    <td>
+[Copy template](https://docs.google.com/document/d/1gVoZ8fkEH0wjazimzljHe4jV-Z8UzO3uJ17k0Ee_l2Q/edit?usp=sharing)
+    </td>
+    </tr>
 </table>
 
 
